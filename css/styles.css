@@ -9,7 +9,9 @@
     height: 500px;
     background-color: rgb(208, 198, 182);
 }
-
-#imodel-info {
+#model-info {
     display: none;
+}
+.visible {
+    display: block;
 }
